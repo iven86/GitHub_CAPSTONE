@@ -1,4 +1,7 @@
 #!/usr/bin/env python3
 print("Welcome Main repo")
+<<<<<<< HEAD
 print("Welcome Sohan_branch")
+=======
 print("Welcome Ram_branch")
+>>>>>>> Ram_branch
